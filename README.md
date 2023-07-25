@@ -1,9 +1,7 @@
 ### Hi there 🖐
 ## Perkenalkan, 
-- 👦 Saya Barhan Akmal Falahudin - aka Barhan
-- 📅 Saya dilahirkan pada tanggal 12 Mei 2002, Anak pertama dari 2 bersaudara
-- 🏦 Saya Mahasiswa Institut Teknologi Sepuluh Nopember Surabaya
-- 👨‍💻 Program studi yang saya pelajari adalah Teknik Informatika Jenjang Strata-1
+- 👦 Saya Barhan Akmal Falahudin
+- 🏦 Mahasiswa Teknik Informatika Jenjang Strata-1 Institut Teknologi Sepuluh Nopember Surabaya
 
 <br/>
 
